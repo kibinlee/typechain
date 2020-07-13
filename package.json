@@ -1,0 +1,9 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Creating blockchain with Typescript.",
+  "main": "index.js",
+  "repository": "https://github.com/kibinlee/typechain.git",
+  "author": "<kibinlee19k@gmail.com>",
+  "license": "MIT"
+}
